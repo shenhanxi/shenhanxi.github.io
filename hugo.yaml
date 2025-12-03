@@ -1,0 +1,68 @@
+baseURL: "https://shenhanxi.github.io/"
+languageCode: "zh-cn"
+title: "Hank's Blog"
+theme: "hugo-theme-stack"
+copyright: "Hank"
+
+params:
+  mainColors: 
+    - "#2a9d8f" 
+    - "#264653"
+
+  sidebar:
+    emoji: "🧬"
+    subtitle: "Bioinformatics & Coding"
+    # --- 关键修改：彻底关闭头像 ---
+    avatar:
+      enabled: false
+      local: true
+      src: "avatar.png"
+
+  footer:
+    since: 2025
+    customText: ""
+
+  colorScheme:
+    toggle: true
+    default: "automatic"
+
+  # --- 核心修复：Widgets 必须是包含 type 的列表 ---
+  widgets:
+    homepage:
+      - type: profile
+      - type: tag-cloud
+      - type: archives
+    page:
+      - type: profile
+      - type: toc  # 文章页显示目录
+
+menu:
+  main:
+    - identifier: home
+      name: 首页
+      url: /
+      weight: 1
+      params:
+        icon: home
+
+    - identifier: archives
+      name: 归档
+      url: /archives/
+      weight: 2
+      params:
+        icon: archive
+
+  social:
+    - identifier: github
+      name: GitHub
+      url: https://github.com/shenhanxi
+      params:
+        icon: brand-github
+        newTab: true
+
+markup:
+  highlight:
+    style: "dracula"
+    noClasses: false
+    lineNos: true
+    guessSyntax: true
