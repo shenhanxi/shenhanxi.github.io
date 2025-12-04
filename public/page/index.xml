@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Pages on Hank&#39;s Blog</title>
+        <link>http://localhost:1313/page/</link>
+        <description>Recent content in Pages on Hank&#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>Hank</copyright>
+        <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>关于我</title>
+        <link>http://localhost:1313/page/about/</link>
+        <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/page/about/</guid>
+        <description>&lt;h3 id=&#34;-关于-hank&#34;&gt;👨‍💻 关于 Hank
+&lt;/h3&gt;&lt;p&gt;我是 &lt;strong&gt;Hank&lt;/strong&gt;，一名生物信息学探索者。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;技能&lt;/strong&gt;: R, Python, Linux, Hugo&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;兴趣&lt;/strong&gt;: 单细胞测序, 空间转录组&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;设备&lt;/strong&gt;: MacBook Air (M series)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;欢迎通过左下角的 GitHub 图标联系我！&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>友情链接</title>
+        <link>http://localhost:1313/page/links/</link>
+        <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/page/links/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>归档</title>
+        <link>http://localhost:1313/page/archives/</link>
+        <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/page/archives/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>我的项目</title>
+        <link>http://localhost:1313/page/projects/</link>
+        <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/page/projects/</guid>
+        <description>&lt;p&gt;这里展示我的生物信息学分析项目：&lt;/p&gt;
+&lt;h3 id=&#34;-项目-a-scrna-seq-analysis-pipeline&#34;&gt;🧬 项目 A: scRNA-seq Analysis Pipeline
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;工具&lt;/strong&gt;: Seurat, R&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;描述&lt;/strong&gt;: 一个自动化的单细胞数据预处理流程。&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/shenhanxi&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;点击查看代码&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-项目-b-cosmx-空间数据可视化&#34;&gt;📊 项目 B: CosMx 空间数据可视化
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;工具&lt;/strong&gt;: Python, SpatialData&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;描述&lt;/strong&gt;: 探索空间转录组数据的可视化方法。&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
